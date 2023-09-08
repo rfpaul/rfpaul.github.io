@@ -29,7 +29,11 @@ section {
     border: 1px solid #ddd;
 }
 
-h2, h3 {
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
     font-size: 1.4em;
 }
 
