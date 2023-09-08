@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0.2em;
+}
+
+header p {
+    margin: 0;
+    padding: 0.2em;
+    font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ddd;
+}
+
+h2, h3 {
+    font-size: 1.4em;
+}
+
+.article {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+}
+
